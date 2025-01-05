@@ -24,7 +24,7 @@ class TextStyles {
   static const subtitleText = TextStyle(
     fontSize: 14,
     fontWeight: FontWeight.w400,
-    color: AppColors.grey,
+    color: AppColors.grey2,
   );
 
   static const largeSubtitle = TextStyle(
