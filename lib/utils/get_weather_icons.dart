@@ -10,11 +10,11 @@ String getWeatherIcon({
   } else if (weatherCode == 803) {
     weatherCondition = 'assets/icons/04d.png';
   } else if (weatherCode == 804) {
-    weatherCondition = 'assets/icons/01d.png';
+    weatherCondition = 'assets/icons/04d.png';
   } else if (weatherCode == 800) {
-    weatherCondition = 'assets/icons/50d.png';
+    weatherCondition = 'assets/icons/01d.png';
   } else if (weatherCode == 700) {
-    weatherCondition = 'assets/icons/03d.png';
+    weatherCondition = 'assets/icons/50d.png';
   } else if (weatherCode == 600) {
     weatherCondition = 'assets/icons/13d.png';
   } else if (weatherCode == 500) {

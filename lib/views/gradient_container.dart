@@ -22,6 +22,7 @@ class GradientContainer extends StatelessWidget {
             end: Alignment.topRight,
             colors: [
               AppColors.black,
+              AppColors.secondaryBlack,
               AppColors.secondaryBlack.withOpacity(.99),
               AppColors.secondaryBlack.withOpacity(.98),
               AppColors.secondaryBlack.withOpacity(.97),
@@ -40,7 +41,7 @@ class GradientContainer extends StatelessWidget {
         ),
         child: Padding(
           padding: const EdgeInsets.only(
-            left: 4.0,
+            left: 24.0,
             right: 24.0,
             top: 36.0,
           ),
